@@ -1,5 +1,7 @@
 # Mineria de datos
 
+#FASE I
+
 
 [Mapa mental I ](https://github.com/wendybazua/mineriadedatos/blob/master/MapaMental_1_%7B1887913%7D.pdf)
 
@@ -15,3 +17,7 @@
 [Resumen: Técnicas de Minería de Datos](https://github.com/wendybazua/mineriadedatos/blob/master/Resumen__Outliers_1887913.pdf)
 
 [Mapa Mental II](https://github.com/wendybazua/mineriadedatos/blob/master/Mapa%20Mental%20_2_1887913.pdf)
+
+#FASE II
+
+[Análisis Bases de Datos](https://github.com/wendybazua/mineriadedatos/blob/master/AnálisisBD_1887913.pdf)
