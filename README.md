@@ -21,3 +21,5 @@ _*FASE I*_
 _*FASE II*_
 
 [Análisis Bases de Datos](https://github.com/wendybazua/mineriadedatos/blob/master/AnálisisBD_1887913.pdf)
+
+[Ejercicios Practicos de Python](https://github.com/wendybazua/mineriadedatos/blob/master/Ejercicios_1887913.ipynb)
