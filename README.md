@@ -25,3 +25,7 @@ _*FASE II*_
 [Ejercicios Practicos de Python](https://github.com/wendybazua/mineriadedatos/blob/master/Ejercicios_1887913.ipynb)
 
 [Avance I - PIA](https://github.com/wendybazua/mineriadedatos/blob/master/Avance1-PIA_E13_G03%20.pdf)
+
+[P1. Preparación de datos](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/P1%20-%20Manipulación%20de%20datos.ipynb)
+
+[P2. Visualización](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/P2%20-%20Visualizaci%C3%B3n%20de%20datos%20f.ipynb)
