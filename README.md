@@ -29,3 +29,7 @@ _*FASE II*_
 [P1. Preparación de datos](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/P1%20-%20Manipulación%20de%20datos.ipynb)
 
 [P2. Visualización](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/P2%20-%20Visualizaci%C3%B3n%20de%20datos%20f.ipynb)
+
+_*FASE III*_
+
+[Avance II - PIA](https://github.com/wendybazua/mineriadedatos/blob/master/AvancePIA_II_Grupo003_E13.ipynb)
