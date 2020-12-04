@@ -33,3 +33,6 @@ _*FASE II*_
 _*FASE III*_
 
 [Avance II - PIA](https://github.com/wendybazua/mineriadedatos/blob/master/AvancePIA_II_Grupo003_E13.ipynb)
+
+
+[Póster - FIFA 20](https://github.com/wendybazua/mineriadedatos/blob/master/Poster%20-%20Miner%C3%ADa%20de%20datos.pdf)
